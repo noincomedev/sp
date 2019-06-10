@@ -2,10 +2,18 @@
   "name": "springsdigital",
   "private": true,
   "scripts": {
-    "start": "meteor run"
+    "start": "meteor run",
+    "dev": "meteor run --settings development.settings.json"
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
-    "meteor-node-stubs": "^0.4.1"
+    "@shopify/polaris": "^3.16.0",
+    "cors-anywhere": "^0.4.1",
+    "curlrequest": "^1.0.1",
+    "meteor-node-stubs": "^0.4.1",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   }
 }

@@ -1,0 +1,24 @@
+{
+  "public": {
+    "api": {
+      "BASE_URL": "https://shopifyapps.springsdigital.com/delivery-scheduler"
+    },
+    "DATES": [
+      {
+        "id": "123",
+        "date": "2019-06-08",
+        "status": "allow"
+      },
+      {
+        "id": "124",
+        "date": "2019-07-10",
+        "status": "allow"
+      },
+      {
+        "id": "125",
+        "date": "2019-06-08",
+        "status": "disallow"
+      }
+    ]
+  }
+}

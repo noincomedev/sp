@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+}
+
+.justify-flex-end {
+  justify-content: flex-end;
+}
+
+.justify-space-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.item {
+  margin: 8px;
+}
